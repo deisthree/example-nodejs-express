@@ -3,7 +3,7 @@
   "version": "0.0.4",
   "repository": {
     "type" : "git",
-    "url" : "https://github.com/deis/example-nodejs-express.git"
+    "url" : "https://github.com/deisthree/example-nodejs-express.git"
   },
   "license": "Apache-2.0",
   "engines": {
